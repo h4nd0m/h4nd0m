@@ -34,13 +34,11 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4nd0m&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4nd0m&layout=compact&theme=dark" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4nd0m&theme=dark" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=h4nd0m&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=h4nd0m&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=h4nd0m&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
